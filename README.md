@@ -20,8 +20,8 @@ End the program
 ## PROGRAM:
 ```
 #Program to swap two values.
-#Developed by: PRAVEEN D
-#RegisterNumber:22005917
+#Developed by: thrikeswar p
+#RegisterNumber:212222230162
 a,b=int(input()),int(input())
 t=b
 b=a
